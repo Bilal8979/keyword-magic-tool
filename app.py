@@ -53,7 +53,6 @@ if keyword_input:
     st.write("### Suggested Keywords:")
     st.dataframe(suggestions)
 
-In which online platform it will execute 
 
 
 
